@@ -1,0 +1,5 @@
+Kompilacja programu: javac Main.java
+Uruchomienie pliku .jar: java -jar Lab01.jar
+Uruchomienie pliku .class: java -cp .\ Main
+Wszystkie pliki znajdują się w tym samym folderze, konsola została otwarta w tymże folderze.
+
